@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.gif</file>
+        <file>main_menu_background.png</file>
+        <file>font.ttf</file>
+        <file>vertex_area.png</file>
+        <file>game_background.jpg</file>
+    </qresource>
+    <qresource prefix="/pieces">
+        <file>black_piece.png</file>
+        <file>white_piece.png</file>
+        <file>black_piece_selected.png</file>
+        <file>white_piece_selected.png</file>
+        <file>white_source_piece.png</file>
+        <file>black_source_piece.png</file>
+        <file>icon.ico</file>
+        <file>icon.icns</file>
+    </qresource>
+    <qresource prefix="/buttons">
+        <file>pause_button.png</file>
+        <file>play_button.png</file>
+        <file>stop_button.png</file>
+    </qresource>
+</RCC>
